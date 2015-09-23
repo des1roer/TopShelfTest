@@ -1,0 +1,9 @@
+D:\proj2015\TopShelfTest\TopShelfTest\bin\Debug\NLog.config
+D:\proj2015\TopShelfTest\TopShelfTest\bin\Debug\TopShelfTest.exe
+D:\proj2015\TopShelfTest\TopShelfTest\bin\Debug\TopShelfTest.pdb
+D:\proj2015\TopShelfTest\TopShelfTest\bin\Debug\NLog.dll
+D:\proj2015\TopShelfTest\TopShelfTest\bin\Debug\Topshelf.dll
+D:\proj2015\TopShelfTest\TopShelfTest\bin\Debug\NLog.xml
+D:\proj2015\TopShelfTest\TopShelfTest\obj\x86\Debug\TopShelfTest.csprojResolveAssemblyReference.cache
+D:\proj2015\TopShelfTest\TopShelfTest\obj\x86\Debug\TopShelfTest.exe
+D:\proj2015\TopShelfTest\TopShelfTest\obj\x86\Debug\TopShelfTest.pdb

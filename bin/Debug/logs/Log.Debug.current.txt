@@ -1,0 +1,2 @@
+2015-09-23 14:48:05.0512 TopShelfTest.TownCrier.Stop Debug: Stop at 23.09.2015 14:48:05  <>c__DisplayClassa`1.<WhenStopped>b__9 => Program.<Main>b__4 => TownCrier.Stop
+2015-09-23 14:51:14.3211 TopShelfTest.TownCrier.Stop Debug: Stop at 23.09.2015 14:51:14  <>c__DisplayClassa`1.<WhenStopped>b__9 => Program.<Main>b__4 => TownCrier.Stop
